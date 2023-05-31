@@ -1,3 +1,9 @@
+## Preview
+
+
+![Screenshot 2023-05-31 111437](https://github.com/satya042/To-Do-App/assets/80916678/10786101-33ee-4677-b3d6-df97ebeb67ca)
+
+
 ## Installation
 
 - Clone/Fork the repo.
