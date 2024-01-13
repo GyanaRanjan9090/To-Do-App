@@ -12,7 +12,7 @@
   background-color: transparent;
 }
 .custom-scroll::-webkit-scrollbar-thumb{
-  border-radius: 20px;
+  border-radius: 200px;
   background-color: lightgray;
   transition: 300ms;
 }
